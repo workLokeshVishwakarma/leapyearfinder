@@ -1,4 +1,7 @@
-# LeapYearFinder - By LexusCreations
-Easy Find Leap Year With LeapYearFinder Simple JavaScript App
+## LeapYearFinder - By LexusCreations
+
+### Easy Find Leap Year With LeapYearFinder Simple JavaScript App
+
 <hr/>
-Visit - https://lexuscreations.github.io/leapyearfinder/
+
+### Visit - [github/workLokeshVishwakarma/leapyearfinder](https://workLokeshVishwakarma.github.io/leapyearfinder/)
